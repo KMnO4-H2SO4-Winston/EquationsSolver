@@ -1,1 +1,1 @@
-# SolveEquations
+# EquationsSolver
