@@ -1,5 +1,5 @@
-#ifndef SOLVEEQUATIONS_ERROR_H
-#define SOLVEEQUATIONS_ERROR_H
+#ifndef EQUATIONSSOLVER_ERROR_H
+#define EQUATIONSSOLVER_ERROR_H
 #include <exception>
 
 class InputError : public std::exception {
@@ -26,4 +26,4 @@ private:
     std::string _msg;
 };
 
-#endif //SOLVEEQUATIONS_ERROR_H
+#endif //EQUATIONSSOLVER_ERROR_H

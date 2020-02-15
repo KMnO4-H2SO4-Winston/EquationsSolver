@@ -1,5 +1,5 @@
-#ifndef SOLVEEQUATIONS_TERM_H
-#define SOLVEEQUATIONS_TERM_H
+#ifndef EQUATIONSSOLVER_TERM_H
+#define EQUATIONSSOLVER_TERM_H
 #include "main.h"
 
 class Term {
@@ -18,4 +18,4 @@ private:
     std::stringstream strStream;
 };
 
-#endif //SOLVEEQUATIONS_TERM_H
+#endif //EQUATIONSSOLVER_TERM_H

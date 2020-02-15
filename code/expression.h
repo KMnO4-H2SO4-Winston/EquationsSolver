@@ -1,5 +1,5 @@
-#ifndef SOLVEEQUATIONS_EXPRESSION_H
-#define SOLVEEQUATIONS_EXPRESSION_H
+#ifndef EQUATIONSSOLVER_EXPRESSION_H
+#define EQUATIONSSOLVER_EXPRESSION_H
 #include "main.h"
 #include "term.h"
 
@@ -22,4 +22,4 @@ private:
     std::stringstream strStream;
 };
 
-#endif //SOLVEEQUATIONS_EXPRESSION_H
+#endif //EQUATIONSSOLVER_EXPRESSION_H

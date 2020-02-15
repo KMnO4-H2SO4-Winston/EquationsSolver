@@ -1,5 +1,5 @@
-#ifndef SOLVEEQUATIONS_MAIN_H
-#define SOLVEEQUATIONS_MAIN_H
+#ifndef EQUATIONSSOLVER_MAIN_H
+#define EQUATIONSSOLVER_MAIN_H
 #include <iostream>
 #include <string>
 #include <sstream>
@@ -16,4 +16,4 @@ typedef bool side;
 #define LEFT true
 #define RIGHT false
 
-#endif //SOLVEEQUATIONS_MAIN_H
+#endif //EQUATIONSSOLVER_MAIN_H

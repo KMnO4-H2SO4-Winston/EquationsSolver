@@ -1,5 +1,5 @@
-#ifndef SOLVEEQUATIONS_EQUATION_H
-#define SOLVEEQUATIONS_EQUATION_H
+#ifndef EQUATIONSSOLVER_EQUATION_H
+#define EQUATIONSSOLVER_EQUATION_H
 #include "main.h"
 #include "expression.h"
 
@@ -20,4 +20,4 @@ private:
 };
 
 
-#endif //SOLVEEQUATIONS_EQUATION_H
+#endif //EQUATIONSSOLVER_EQUATION_H
